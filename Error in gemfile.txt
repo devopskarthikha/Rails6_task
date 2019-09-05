@@ -1,5 +1,0 @@
-Error in gemfile 
-===================
-ERROR: Service 'app' failed to build: The command '/bin/sh -c bundle install' returned a non-zero code: 5
-
-===> nokogiri --- software 
